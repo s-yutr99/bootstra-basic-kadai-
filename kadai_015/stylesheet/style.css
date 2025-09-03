@@ -104,11 +104,11 @@ p {
 }
 
 /* ----------------------------------------------- アバウト */
-.about::after{
-  content: "シェフ";
+#chef::after{
+  content:"シェフ";
 }
 
-.about_us_bg{
+.chef_bg{
   background-color: #fdf5e6;
 }
 
